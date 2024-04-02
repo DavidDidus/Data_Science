@@ -38,8 +38,13 @@
             </config>
         </config>
         <config key="categoryColumn">
-            <entry key="selected" type="xstring" value="&lt;none&gt;"/>
-            <config key="compatibleTypes_Internals"/>
+            <entry key="selected" type="xstring" value="Category"/>
+            <config key="compatibleTypes_Internals">
+                <entry key="array-size" type="xint" value="3"/>
+                <entry key="0" type="xstring" value="org.knime.core.data.StringValue"/>
+                <entry key="1" type="xstring" value="org.knime.core.data.DataValue"/>
+                <entry key="2" type="xstring" value="org.knime.core.data.NominalValue"/>
+            </config>
         </config>
         <entry key="generateImage" type="xboolean" value="false"/>
         <entry key="width" type="xint" value="800"/>
@@ -108,10 +113,40 @@
                 <entry key="type" type="xstring" value="table"/>
                 <entry key="table_dir_location" type="xstring" value="object_4"/>
             </config>
+            <config key="object_5">
+                <entry key="index" type="xint" value="5"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_5"/>
+            </config>
+            <config key="object_6">
+                <entry key="index" type="xint" value="6"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_6"/>
+            </config>
+            <config key="object_7">
+                <entry key="index" type="xint" value="7"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_7"/>
+            </config>
+            <config key="object_8">
+                <entry key="index" type="xint" value="8"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_8"/>
+            </config>
+            <config key="object_9">
+                <entry key="index" type="xint" value="9"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_9"/>
+            </config>
+            <config key="object_10">
+                <entry key="index" type="xint" value="10"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_10"/>
+            </config>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="a51c864b-03b7-40e4-82c3-088fa3aa50ee"/>
+        <entry key="file_store_id" type="xstring" value="cb1b1e23-ab42-494c-8435-4cdc25254d38"/>
     </config>
 </config>
