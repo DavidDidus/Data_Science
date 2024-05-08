@@ -1,0 +1,2788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewRepresentation">
+    <config key="data">
+        <entry key="numSettings" type="xint" value="250"/>
+        <config key="0">
+            <entry key="id" type="xstring" value="tag_146"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="145"/>
+            </config>
+            <entry key="text" type="xstring" value="juan antonio bayona"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="22296.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="1">
+            <entry key="id" type="xstring" value="tag_99601"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="99600"/>
+            </config>
+            <entry key="text" type="xstring" value="pilar lopez ayala"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="20298.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="2">
+            <entry key="id" type="xstring" value="tag_538"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="537"/>
+            </config>
+            <entry key="text" type="xstring" value="basada hechos reales"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="12638.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="3">
+            <entry key="id" type="xstring" value="tag_834"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="833"/>
+            </config>
+            <entry key="text" type="xstring" value="naomi watts ewan"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="12616.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="4">
+            <entry key="id" type="xstring" value="tag_64025"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64024"/>
+            </config>
+            <entry key="text" type="xstring" value="guerra civil espanola"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="12568.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="5">
+            <entry key="id" type="xstring" value="tag_931"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="930"/>
+            </config>
+            <entry key="text" type="xstring" value="“lo imposible ”"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="11526.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="6">
+            <entry key="id" type="xstring" value="tag_835"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="834"/>
+            </config>
+            <entry key="text" type="xstring" value="watts ewan mcgregor"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="11454.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="7">
+            <entry key="id" type="xstring" value="tag_109160"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="109159"/>
+            </config>
+            <entry key="text" type="xstring" value="nina tus ojos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="8960.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="8">
+            <entry key="id" type="xstring" value="tag_104140"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="104139"/>
+            </config>
+            <entry key="text" type="xstring" value="antonia san juan"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7932.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="9">
+            <entry key="id" type="xstring" value="tag_67270"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="67269"/>
+            </config>
+            <entry key="text" type="xstring" value="emilio gutierrez caba"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7894.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="10">
+            <entry key="id" type="xstring" value="tag_122553"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="122552"/>
+            </config>
+            <entry key="text" type="xstring" value="rosa maria sarda"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7612.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="11">
+            <entry key="id" type="xstring" value="tag_48635"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="48634"/>
+            </config>
+            <entry key="text" type="xstring" value="fernando gonzalez molina"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7574.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="12">
+            <entry key="id" type="xstring" value="tag_155120"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="155119"/>
+            </config>
+            <entry key="text" type="xstring" value="juan jose ballesta"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7210.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="13">
+            <entry key="id" type="xstring" value="tag_7572"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="7571"/>
+            </config>
+            <entry key="text" type="xstring" value="historia real familia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7182.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="14">
+            <entry key="id" type="xstring" value="tag_662"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="661"/>
+            </config>
+            <entry key="text" type="xstring" value="mas alla vida"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7020.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="15">
+            <entry key="id" type="xstring" value="tag_2682"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="2681"/>
+            </config>
+            <entry key="text" type="xstring" value="real familia espanola"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="6794.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="16">
+            <entry key="id" type="xstring" value="tag_80350"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="80349"/>
+            </config>
+            <entry key="text" type="xstring" value="pelicula guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="6658.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="17">
+            <entry key="id" type="xstring" value="tag_12360"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="12359"/>
+            </config>
+            <entry key="text" type="xstring" value="basada historia real"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="6638.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="18">
+            <entry key="id" type="xstring" value="tag_57581"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="57580"/>
+            </config>
+            <entry key="text" type="xstring" value="rector universidad salamanca"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="5618.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="19">
+            <entry key="id" type="xstring" value="tag_9011"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="9010"/>
+            </config>
+            <entry key="text" type="xstring" value="pelicula espanola mas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4854.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="20">
+            <entry key="id" type="xstring" value="tag_1840"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="1839"/>
+            </config>
+            <entry key="text" type="xstring" value="‘lo imposible ’"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4528.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="21">
+            <entry key="id" type="xstring" value="tag_6580"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="6579"/>
+            </config>
+            <entry key="text" type="xstring" value="sergio g sanchez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4330.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="22">
+            <entry key="id" type="xstring" value="tag_4826"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="4825"/>
+            </config>
+            <entry key="text" type="xstring" value="naomi watts tom"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4277.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="23">
+            <entry key="id" type="xstring" value="tag_9421"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="9420"/>
+            </config>
+            <entry key="text" type="xstring" value="pelicula basada hechos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4274.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="24">
+            <entry key="id" type="xstring" value="tag_22170"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="22169"/>
+            </config>
+            <entry key="text" type="xstring" value="mas taquillera historia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4252.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="25">
+            <entry key="id" type="xstring" value="tag_11092"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="11091"/>
+            </config>
+            <entry key="text" type="xstring" value="basado hechos reales"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4160.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="26">
+            <entry key="id" type="xstring" value="tag_80883"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="80882"/>
+            </config>
+            <entry key="text" type="xstring" value="don miguel unamuno"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4050.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="27">
+            <entry key="id" type="xstring" value="tag_50022"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="50021"/>
+            </config>
+            <entry key="text" type="xstring" value="mejores peliculas espanolas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="4004.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="28">
+            <entry key="id" type="xstring" value="tag_54591"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="54590"/>
+            </config>
+            <entry key="text" type="xstring" value="tesis abre ojos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3948.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="29">
+            <entry key="id" type="xstring" value="tag_79412"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="79411"/>
+            </config>
+            <entry key="text" type="xstring" value="peliculas guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3820.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="30">
+            <entry key="id" type="xstring" value="tag_84388"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="84387"/>
+            </config>
+            <entry key="text" type="xstring" value="interpretacion karra elejalde"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3818.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="31">
+            <entry key="id" type="xstring" value="tag_3708"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="3707"/>
+            </config>
+            <entry key="text" type="xstring" value="30 millones euros"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3778.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="32">
+            <entry key="id" type="xstring" value="tag_64410"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64409"/>
+            </config>
+            <entry key="text" type="xstring" value="dure guerra pelicula"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3713.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="33">
+            <entry key="id" type="xstring" value="tag_8624"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="8623"/>
+            </config>
+            <entry key="text" type="xstring" value="26 diciembre 2004"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3664.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="34">
+            <entry key="id" type="xstring" value="tag_104281"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="104280"/>
+            </config>
+            <entry key="text" type="xstring" value="tranvia llamado deseo"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3542.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="35">
+            <entry key="id" type="xstring" value="tag_9106"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="9105"/>
+            </config>
+            <entry key="text" type="xstring" value="lucas tom holland"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3424.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="36">
+            <entry key="id" type="xstring" value="tag_84254"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="84253"/>
+            </config>
+            <entry key="text" type="xstring" value="franco millan astray"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3386.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="37">
+            <entry key="id" type="xstring" value="tag_103642"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="103641"/>
+            </config>
+            <entry key="text" type="xstring" value="borde ataque nervios"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3270.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="38">
+            <entry key="id" type="xstring" value="tag_15240"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="15239"/>
+            </config>
+            <entry key="text" type="xstring" value="historia basada hechos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3256.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="39">
+            <entry key="id" type="xstring" value="tag_4827"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="4826"/>
+            </config>
+            <entry key="text" type="xstring" value="watts tom holland"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3215.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="40">
+            <entry key="id" type="xstring" value="tag_81894"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81893"/>
+            </config>
+            <entry key="text" type="xstring" value="paraninfo universidad salamanca"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3204.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="41">
+            <entry key="id" type="xstring" value="tag_15218"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="15217"/>
+            </config>
+            <entry key="text" type="xstring" value="espanola mas taquillera"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3196.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="42">
+            <entry key="id" type="xstring" value="tag_103641"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="103640"/>
+            </config>
+            <entry key="text" type="xstring" value="mujeres borde ataque"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3160.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="43">
+            <entry key="id" type="xstring" value="tag_2848"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="2847"/>
+            </config>
+            <entry key="text" type="xstring" value="spoiler falta espacio"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3050.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="44">
+            <entry key="id" type="xstring" value="tag_12931"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="12930"/>
+            </config>
+            <entry key="text" type="xstring" value="actuacion naomi watts"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3018.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="45">
+            <entry key="id" type="xstring" value="tag_64024"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64023"/>
+            </config>
+            <entry key="text" type="xstring" value="inicios guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3016.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="46">
+            <entry key="id" type="xstring" value="tag_60717"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="60716"/>
+            </config>
+            <entry key="text" type="xstring" value="recomendable direccion guion"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2864.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="47">
+            <entry key="id" type="xstring" value="tag_60723"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="60722"/>
+            </config>
+            <entry key="text" type="xstring" value="planos movimientos camara"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2864.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="48">
+            <entry key="id" type="xstring" value="tag_81810"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81809"/>
+            </config>
+            <entry key="text" type="xstring" value="unamuno millan astray"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2860.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="49">
+            <entry key="id" type="xstring" value="tag_82441"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82440"/>
+            </config>
+            <entry key="text" type="xstring" value="ultimos meses vida"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2800.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="50">
+            <entry key="id" type="xstring" value="tag_90979"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="90978"/>
+            </config>
+            <entry key="text" type="xstring" value="“mientras dure guerra”"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2766.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="51">
+            <entry key="id" type="xstring" value="tag_108612"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="108611"/>
+            </config>
+            <entry key="text" type="xstring" value="raimunda penelope cruz"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2738.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="52">
+            <entry key="id" type="xstring" value="tag_22927"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="22926"/>
+            </config>
+            <entry key="text" type="xstring" value="naomi watts henry"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2718.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="53">
+            <entry key="id" type="xstring" value="tag_58037"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="58036"/>
+            </config>
+            <entry key="text" type="xstring" value="tema guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2698.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="54">
+            <entry key="id" type="xstring" value="tag_9574"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="9573"/>
+            </config>
+            <entry key="text" type="xstring" value="clint eastwood mas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2652.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="55">
+            <entry key="id" type="xstring" value="tag_19274"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="19273"/>
+            </config>
+            <entry key="text" type="xstring" value="mas puro estilo"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2602.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="56">
+            <entry key="id" type="xstring" value="tag_82616"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82615"/>
+            </config>
+            <entry key="text" type="xstring" value="santi prego franco"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2590.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="57">
+            <entry key="id" type="xstring" value="tag_8987"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="8986"/>
+            </config>
+            <entry key="text" type="xstring" value="joven tom holland"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2572.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="58">
+            <entry key="id" type="xstring" value="tag_64062"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64061"/>
+            </config>
+            <entry key="text" type="xstring" value="unamuno karra elejalde"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2566.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="59">
+            <entry key="id" type="xstring" value="tag_44321"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="44320"/>
+            </config>
+            <entry key="text" type="xstring" value="historia ramon sampedro"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2552.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="60">
+            <entry key="id" type="xstring" value="tag_8952"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="8951"/>
+            </config>
+            <entry key="text" type="xstring" value="interpretacion naomi watts"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2546.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="61">
+            <entry key="id" type="xstring" value="tag_19112"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="19111"/>
+            </config>
+            <entry key="text" type="xstring" value="maria naomi watts"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2530.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="62">
+            <entry key="id" type="xstring" value="tag_115602"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="115601"/>
+            </config>
+            <entry key="text" type="xstring" value="cecilia roth marisa"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2502.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="63">
+            <entry key="id" type="xstring" value="tag_115603"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="115602"/>
+            </config>
+            <entry key="text" type="xstring" value="roth marisa paredes"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2502.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="64">
+            <entry key="id" type="xstring" value="tag_81502"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81501"/>
+            </config>
+            <entry key="text" type="xstring" value="amenabar alejandro hernandez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2452.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="65">
+            <entry key="id" type="xstring" value="tag_64142"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64141"/>
+            </config>
+            <entry key="text" type="xstring" value="franco santi prego"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2450.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="66">
+            <entry key="id" type="xstring" value="tag_143471"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="143470"/>
+            </config>
+            <entry key="text" type="xstring" value="marta etura nadia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2450.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="67">
+            <entry key="id" type="xstring" value="tag_143472"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="143471"/>
+            </config>
+            <entry key="text" type="xstring" value="etura nadia santiago"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2450.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="68">
+            <entry key="id" type="xstring" value="tag_3049"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="3048"/>
+            </config>
+            <entry key="text" type="xstring" value="lagrima facil espectador"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2410.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="69">
+            <entry key="id" type="xstring" value="tag_48686"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="48685"/>
+            </config>
+            <entry key="text" type="xstring" value="espanola guinea ecuatorial"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2400.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="70">
+            <entry key="id" type="xstring" value="tag_136365"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="136364"/>
+            </config>
+            <entry key="text" type="xstring" value="plena guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2382.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="71">
+            <entry key="id" type="xstring" value="tag_64148"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64147"/>
+            </config>
+            <entry key="text" type="xstring" value="millan astray eduard"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2366.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="72">
+            <entry key="id" type="xstring" value="tag_64149"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64148"/>
+            </config>
+            <entry key="text" type="xstring" value="astray eduard fernandez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2366.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="73">
+            <entry key="id" type="xstring" value="tag_9575"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="9574"/>
+            </config>
+            <entry key="text" type="xstring" value="eastwood mas alla"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2352.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="74">
+            <entry key="id" type="xstring" value="tag_51247"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="51246"/>
+            </config>
+            <entry key="text" type="xstring" value="pelicula habla inglesa"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2344.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="75">
+            <entry key="id" type="xstring" value="tag_51246"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="51245"/>
+            </config>
+            <entry key="text" type="xstring" value="oscar pelicula habla"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2344.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="76">
+            <entry key="id" type="xstring" value="tag_82020"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82019"/>
+            </config>
+            <entry key="text" type="xstring" value="elejalde miguel unamuno"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2334.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="77">
+            <entry key="id" type="xstring" value="tag_82019"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82018"/>
+            </config>
+            <entry key="text" type="xstring" value="karra elejalde miguel"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2334.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="78">
+            <entry key="id" type="xstring" value="tag_147179"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="147178"/>
+            </config>
+            <entry key="text" type="xstring" value="emilio martinez lazaro"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2300.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="79">
+            <entry key="id" type="xstring" value="tag_9278"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="9277"/>
+            </config>
+            <entry key="text" type="xstring" value="historia cine espanol"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2266.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="80">
+            <entry key="id" type="xstring" value="tag_48662"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="48661"/>
+            </config>
+            <entry key="text" type="xstring" value="novela luz gabas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2266.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="81">
+            <entry key="id" type="xstring" value="tag_70593"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="70592"/>
+            </config>
+            <entry key="text" type="xstring" value="homonima luz gabas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2254.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="82">
+            <entry key="id" type="xstring" value="tag_70592"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="70591"/>
+            </config>
+            <entry key="text" type="xstring" value="novela homonima luz"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2254.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="83">
+            <entry key="id" type="xstring" value="tag_85941"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="85940"/>
+            </config>
+            <entry key="text" type="xstring" value="karra elejalde eduard"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2250.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="84">
+            <entry key="id" type="xstring" value="tag_2847"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="2846"/>
+            </config>
+            <entry key="text" type="xstring" value="spoiler spoiler falta"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2196.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="85">
+            <entry key="id" type="xstring" value="tag_89245"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89244"/>
+            </config>
+            <entry key="text" type="xstring" value="publicamente sublevacion militar"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2178.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="86">
+            <entry key="id" type="xstring" value="tag_52113"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="52112"/>
+            </config>
+            <entry key="text" type="xstring" value="oscar pelicula extranjera"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2152.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="87">
+            <entry key="id" type="xstring" value="tag_2333"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="2332"/>
+            </config>
+            <entry key="text" type="xstring" value="mcgregor naomi watts"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2138.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="88">
+            <entry key="id" type="xstring" value="tag_143721"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="143720"/>
+            </config>
+            <entry key="text" type="xstring" value="ayala marta etura"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2128.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="89">
+            <entry key="id" type="xstring" value="tag_143720"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="143719"/>
+            </config>
+            <entry key="text" type="xstring" value="lopez ayala marta"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2128.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="90">
+            <entry key="id" type="xstring" value="tag_103740"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="103739"/>
+            </config>
+            <entry key="text" type="xstring" value="penelope cruz actriz"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2088.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="91">
+            <entry key="id" type="xstring" value="tag_41491"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="41490"/>
+            </config>
+            <entry key="text" type="xstring" value="interpretacion javier bardem"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2042.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="92">
+            <entry key="id" type="xstring" value="tag_6235"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="6234"/>
+            </config>
+            <entry key="text" type="xstring" value="ewan mcgregor hijos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2034.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="93">
+            <entry key="id" type="xstring" value="tag_13867"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="13866"/>
+            </config>
+            <entry key="text" type="xstring" value="pasar vacaciones navidad"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2022.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="94">
+            <entry key="id" type="xstring" value="tag_48784"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="48783"/>
+            </config>
+            <entry key="text" type="xstring" value="mario casas actor"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2020.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="95">
+            <entry key="id" type="xstring" value="tag_81585"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81584"/>
+            </config>
+            <entry key="text" type="xstring" value="tito valverde luis"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2008.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="96">
+            <entry key="id" type="xstring" value="tag_81273"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81272"/>
+            </config>
+            <entry key="text" type="xstring" value="nombrado jefe estado"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1996.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="97">
+            <entry key="id" type="xstring" value="tag_81274"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81273"/>
+            </config>
+            <entry key="text" type="xstring" value="jefe estado zona"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1996.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="98">
+            <entry key="id" type="xstring" value="tag_82407"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82406"/>
+            </config>
+            <entry key="text" type="xstring" value="elejalde eduard fernandez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1992.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="99">
+            <entry key="id" type="xstring" value="tag_64061"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64060"/>
+            </config>
+            <entry key="text" type="xstring" value="miguel unamuno karra"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1968.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="100">
+            <entry key="id" type="xstring" value="tag_63978"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="63977"/>
+            </config>
+            <entry key="text" type="xstring" value="dure guerra 2019"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1950.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="101">
+            <entry key="id" type="xstring" value="tag_24467"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="24466"/>
+            </config>
+            <entry key="text" type="xstring" value="henry ewan mcgregor"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1948.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="102">
+            <entry key="id" type="xstring" value="tag_77609"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="77608"/>
+            </config>
+            <entry key="text" type="xstring" value="excelente banda sonora"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1946.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="103">
+            <entry key="id" type="xstring" value="tag_80941"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="80940"/>
+            </config>
+            <entry key="text" type="xstring" value="personaje millan astray"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1944.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="104">
+            <entry key="id" type="xstring" value="tag_21346"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="21345"/>
+            </config>
+            <entry key="text" type="xstring" value="tsunami arraso costas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1936.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="105">
+            <entry key="id" type="xstring" value="tag_4825"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="4824"/>
+            </config>
+            <entry key="text" type="xstring" value="especial naomi watts"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1926.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="106">
+            <entry key="id" type="xstring" value="tag_6579"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="6578"/>
+            </config>
+            <entry key="text" type="xstring" value="guion sergio g"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1896.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="107">
+            <entry key="id" type="xstring" value="tag_38122"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="38121"/>
+            </config>
+            <entry key="text" type="xstring" value="vida ramon sampedro"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1864.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="108">
+            <entry key="id" type="xstring" value="tag_143119"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="143118"/>
+            </config>
+            <entry key="text" type="xstring" value="etura veronica sanchez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1856.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="109">
+            <entry key="id" type="xstring" value="tag_9166"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="9165"/>
+            </config>
+            <entry key="text" type="xstring" value="interpretacion tom holland"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1854.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="110">
+            <entry key="id" type="xstring" value="tag_13469"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="13468"/>
+            </config>
+            <entry key="text" type="xstring" value="mejores peliculas ano"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1846.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="111">
+            <entry key="id" type="xstring" value="tag_86483"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="86482"/>
+            </config>
+            <entry key="text" type="xstring" value="inicio guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1840.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="112">
+            <entry key="id" type="xstring" value="tag_105555"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="105554"/>
+            </config>
+            <entry key="text" type="xstring" value="borde ataque nervios”"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1832.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="113">
+            <entry key="id" type="xstring" value="tag_105554"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="105553"/>
+            </config>
+            <entry key="text" type="xstring" value="“mujeres borde ataque"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1832.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="114">
+            <entry key="id" type="xstring" value="tag_70591"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="70590"/>
+            </config>
+            <entry key="text" type="xstring" value="basada novela homonima"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1826.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="115">
+            <entry key="id" type="xstring" value="tag_4943"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="4942"/>
+            </config>
+            <entry key="text" type="xstring" value="busca lagrima facil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1814.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="116">
+            <entry key="id" type="xstring" value="tag_76025"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="76024"/>
+            </config>
+            <entry key="text" type="xstring" value="adriana ugarte daniel"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1800.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="117">
+            <entry key="id" type="xstring" value="tag_76026"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="76025"/>
+            </config>
+            <entry key="text" type="xstring" value="ugarte daniel grao"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1800.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="118">
+            <entry key="id" type="xstring" value="tag_25489"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="25488"/>
+            </config>
+            <entry key="text" type="xstring" value="‘el laberinto fauno’"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1792.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="119">
+            <entry key="id" type="xstring" value="tag_111490"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="111489"/>
+            </config>
+            <entry key="text" type="xstring" value="volver obra maestra"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1784.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="120">
+            <entry key="id" type="xstring" value="tag_26185"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="26184"/>
+            </config>
+            <entry key="text" type="xstring" value="actores naomi watts"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1766.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="121">
+            <entry key="id" type="xstring" value="tag_85173"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="85172"/>
+            </config>
+            <entry key="text" type="xstring" value="millan astray tambien"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1765.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="122">
+            <entry key="id" type="xstring" value="tag_41558"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="41557"/>
+            </config>
+            <entry key="text" type="xstring" value="banda sonora compuesta"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1762.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="123">
+            <entry key="id" type="xstring" value="tag_57937"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="57936"/>
+            </config>
+            <entry key="text" type="xstring" value="comienzo guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1756.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="124">
+            <entry key="id" type="xstring" value="tag_63989"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="63988"/>
+            </config>
+            <entry key="text" type="xstring" value="intelectual miguel unamuno"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1754.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="125">
+            <entry key="id" type="xstring" value="tag_136583"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="136582"/>
+            </config>
+            <entry key="text" type="xstring" value="juan luis galiardo"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1750.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="126">
+            <entry key="id" type="xstring" value="tag_89672"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89671"/>
+            </config>
+            <entry key="text" type="xstring" value="ridiculo comico caricaturesco"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1744.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="127">
+            <entry key="id" type="xstring" value="tag_6829"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="6828"/>
+            </config>
+            <entry key="text" type="xstring" value="pendergast samuel joslin"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1740.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="128">
+            <entry key="id" type="xstring" value="tag_6828"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="6827"/>
+            </config>
+            <entry key="text" type="xstring" value="oaklee pendergast samuel"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1740.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="129">
+            <entry key="id" type="xstring" value="tag_122883"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="122882"/>
+            </config>
+            <entry key="text" type="xstring" value="“todo madre ”"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1734.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="130">
+            <entry key="id" type="xstring" value="tag_129094"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="129093"/>
+            </config>
+            <entry key="text" type="xstring" value="cayetana guillen cuervo"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1724.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="131">
+            <entry key="id" type="xstring" value="tag_48634"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="48633"/>
+            </config>
+            <entry key="text" type="xstring" value="director fernando gonzalez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1714.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="132">
+            <entry key="id" type="xstring" value="tag_82883"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82882"/>
+            </config>
+            <entry key="text" type="xstring" value="malos malisimos buenisimos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1704.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="133">
+            <entry key="id" type="xstring" value="tag_89460"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89459"/>
+            </config>
+            <entry key="text" type="xstring" value="guerra civil pelicula"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1703.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="134">
+            <entry key="id" type="xstring" value="tag_69146"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="69145"/>
+            </config>
+            <entry key="text" type="xstring" value="macarena garcia adriana"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1702.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="135">
+            <entry key="id" type="xstring" value="tag_69147"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="69146"/>
+            </config>
+            <entry key="text" type="xstring" value="garcia adriana ugarte"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1702.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="136">
+            <entry key="id" type="xstring" value="tag_7224"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="7223"/>
+            </config>
+            <entry key="text" type="xstring" value="cientos miles personas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1682.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="137">
+            <entry key="id" type="xstring" value="tag_15340"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="15339"/>
+            </config>
+            <entry key="text" type="xstring" value="fotografia oscar faura"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1682.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="138">
+            <entry key="id" type="xstring" value="tag_21474"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="21473"/>
+            </config>
+            <entry key="text" type="xstring" value="cuarenta minutos mas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1680.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="139">
+            <entry key="id" type="xstring" value="tag_27401"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="27400"/>
+            </config>
+            <entry key="text" type="xstring" value="historia real ocurrio"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1680.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="140">
+            <entry key="id" type="xstring" value="tag_86787"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="86786"/>
+            </config>
+            <entry key="text" type="xstring" value="destituido gobierno republicano"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1664.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="141">
+            <entry key="id" type="xstring" value="tag_143545"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="143544"/>
+            </config>
+            <entry key="text" type="xstring" value="ley memoria historica"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1664.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="142">
+            <entry key="id" type="xstring" value="tag_90147"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="90146"/>
+            </config>
+            <entry key="text" type="xstring" value="karra elejalde unamuno"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1642.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="143">
+            <entry key="id" type="xstring" value="tag_81809"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81808"/>
+            </config>
+            <entry key="text" type="xstring" value="miguel unamuno millan"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1642.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="144">
+            <entry key="id" type="xstring" value="tag_60990"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="60989"/>
+            </config>
+            <entry key="text" type="xstring" value="cine espanol historia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1639.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="145">
+            <entry key="id" type="xstring" value="tag_81418"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81417"/>
+            </config>
+            <entry key="text" type="xstring" value="junta defensa nacional"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1628.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="146">
+            <entry key="id" type="xstring" value="tag_6322"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="6321"/>
+            </config>
+            <entry key="text" type="xstring" value="mejores peliculas catastrofes"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1628.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="147">
+            <entry key="id" type="xstring" value="tag_8453"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="8452"/>
+            </config>
+            <entry key="text" type="xstring" value="mas lejos realidad"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1624.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="148">
+            <entry key="id" type="xstring" value="tag_70291"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="70290"/>
+            </config>
+            <entry key="text" type="xstring" value="direccion guion actuaciones"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1618.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="149">
+            <entry key="id" type="xstring" value="tag_28910"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="28909"/>
+            </config>
+            <entry key="text" type="xstring" value="drama basado hechos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1614.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="150">
+            <entry key="id" type="xstring" value="tag_27633"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="27632"/>
+            </config>
+            <entry key="text" type="xstring" value="personajes estan construidos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1608.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="151">
+            <entry key="id" type="xstring" value="tag_83919"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="83918"/>
+            </config>
+            <entry key="text" type="xstring" value="escritor miguel unamuno"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1602.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="152">
+            <entry key="id" type="xstring" value="tag_8178"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="8177"/>
+            </config>
+            <entry key="text" type="xstring" value="papel naomi watts"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1593.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="153">
+            <entry key="id" type="xstring" value="tag_150159"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="150158"/>
+            </config>
+            <entry key="text" type="xstring" value="sanchez marta etura"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1592.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="154">
+            <entry key="id" type="xstring" value="tag_150158"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="150157"/>
+            </config>
+            <entry key="text" type="xstring" value="veronica sanchez marta"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1592.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="155">
+            <entry key="id" type="xstring" value="tag_87066"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="87065"/>
+            </config>
+            <entry key="text" type="xstring" value="mas guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1574.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="156">
+            <entry key="id" type="xstring" value="tag_15376"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="15375"/>
+            </config>
+            <entry key="text" type="xstring" value="cine espanol mas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1570.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="157">
+            <entry key="id" type="xstring" value="tag_89579"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89578"/>
+            </config>
+            <entry key="text" type="xstring" value="hacerse poder bando"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1564.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="158">
+            <entry key="id" type="xstring" value="tag_89580"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89579"/>
+            </config>
+            <entry key="text" type="xstring" value="poder bando nacional"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1564.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="159">
+            <entry key="id" type="xstring" value="tag_86595"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="86594"/>
+            </config>
+            <entry key="text" type="xstring" value="guerra civil franquismo"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1558.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="160">
+            <entry key="id" type="xstring" value="tag_81973"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81972"/>
+            </config>
+            <entry key="text" type="xstring" value="interpretacion eduard fernandez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1556.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="161">
+            <entry key="id" type="xstring" value="tag_83268"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="83267"/>
+            </config>
+            <entry key="text" type="xstring" value="guerra civil franco"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1556.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="162">
+            <entry key="id" type="xstring" value="tag_107000"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="106999"/>
+            </config>
+            <entry key="text" type="xstring" value="pelicula pedro almodovar"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1555.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="163">
+            <entry key="id" type="xstring" value="tag_122556"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="122555"/>
+            </config>
+            <entry key="text" type="xstring" value="fernando fernan gomez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1554.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="164">
+            <entry key="id" type="xstring" value="tag_84688"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="84687"/>
+            </config>
+            <entry key="text" type="xstring" value="unamuno universidad salamanca"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1550.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="165">
+            <entry key="id" type="xstring" value="tag_74407"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="74406"/>
+            </config>
+            <entry key="text" type="xstring" value="clarence adriana ugarte"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1536.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="166">
+            <entry key="id" type="xstring" value="tag_144718"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="144717"/>
+            </config>
+            <entry key="text" type="xstring" value="mola escribir plan"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1536.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="167">
+            <entry key="id" type="xstring" value="tag_144717"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="144716"/>
+            </config>
+            <entry key="text" type="xstring" value="te mola escribir"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1536.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="168">
+            <entry key="id" type="xstring" value="tag_81326"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81325"/>
+            </config>
+            <entry key="text" type="xstring" value="dictadura primo rivera"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1530.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="169">
+            <entry key="id" type="xstring" value="tag_5244"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="5243"/>
+            </config>
+            <entry key="text" type="xstring" value="costa sudeste asiatico"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1528.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="170">
+            <entry key="id" type="xstring" value="tag_28893"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="28892"/>
+            </config>
+            <entry key="text" type="xstring" value="mencion aparte merece"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1524.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="171">
+            <entry key="id" type="xstring" value="tag_90261"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="90260"/>
+            </config>
+            <entry key="text" type="xstring" value="golpe estado militar"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1520.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="172">
+            <entry key="id" type="xstring" value="tag_88108"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="88107"/>
+            </config>
+            <entry key="text" type="xstring" value="te gusta historia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1510.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="173">
+            <entry key="id" type="xstring" value="tag_82537"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82536"/>
+            </config>
+            <entry key="text" type="xstring" value="alejandro amenabar alejandro"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1504.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="174">
+            <entry key="id" type="xstring" value="tag_136453"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="136452"/>
+            </config>
+            <entry key="text" type="xstring" value="espanol alemania nazi"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1502.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="175">
+            <entry key="id" type="xstring" value="tag_81586"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81585"/>
+            </config>
+            <entry key="text" type="xstring" value="valverde luis callejo"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1492.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="176">
+            <entry key="id" type="xstring" value="tag_67980"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="67979"/>
+            </config>
+            <entry key="text" type="xstring" value="mediados siglo xx"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1488.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="177">
+            <entry key="id" type="xstring" value="tag_81432"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81431"/>
+            </config>
+            <entry key="text" type="xstring" value="millan-astray fundador legion"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1486.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="178">
+            <entry key="id" type="xstring" value="tag_2869"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="2868"/>
+            </config>
+            <entry key="text" type="xstring" value="ir mas alla"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1486.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="179">
+            <entry key="id" type="xstring" value="tag_81576"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81575"/>
+            </config>
+            <entry key="text" type="xstring" value="lopez inma cuevas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1484.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="180">
+            <entry key="id" type="xstring" value="tag_81575"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81574"/>
+            </config>
+            <entry key="text" type="xstring" value="patricia lopez inma"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1484.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="181">
+            <entry key="id" type="xstring" value="tag_140649"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="140648"/>
+            </config>
+            <entry key="text" type="xstring" value="interpretacion pilar lopez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1478.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="182">
+            <entry key="id" type="xstring" value="tag_21345"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="21344"/>
+            </config>
+            <entry key="text" type="xstring" value="espanola tsunami arraso"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1476.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="183">
+            <entry key="id" type="xstring" value="tag_21344"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="21343"/>
+            </config>
+            <entry key="text" type="xstring" value="familia espanola tsunami"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1476.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="184">
+            <entry key="id" type="xstring" value="tag_91902"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="91901"/>
+            </config>
+            <entry key="text" type="xstring" value="figura miguel unamuno"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1474.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="185">
+            <entry key="id" type="xstring" value="tag_70082"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="70081"/>
+            </config>
+            <entry key="text" type="xstring" value="separadas 40 anos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1464.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="186">
+            <entry key="id" type="xstring" value="tag_81811"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81810"/>
+            </config>
+            <entry key="text" type="xstring" value="millan astray fundador"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1462.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="187">
+            <entry key="id" type="xstring" value="tag_81812"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="81811"/>
+            </config>
+            <entry key="text" type="xstring" value="astray fundador legion"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1462.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="188">
+            <entry key="id" type="xstring" value="tag_135750"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="135749"/>
+            </config>
+            <entry key="text" type="xstring" value="te puedes creer"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1456.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="189">
+            <entry key="id" type="xstring" value="tag_742"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="741"/>
+            </config>
+            <entry key="text" type="xstring" value="toronto san sebastian"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1446.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="190">
+            <entry key="id" type="xstring" value="tag_741"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="740"/>
+            </config>
+            <entry key="text" type="xstring" value="festivales toronto san"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1446.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="191">
+            <entry key="id" type="xstring" value="tag_57557"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="57556"/>
+            </config>
+            <entry key="text" type="xstring" value="mas ochenta anos"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1444.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="192">
+            <entry key="id" type="xstring" value="tag_46648"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="46647"/>
+            </config>
+            <entry key="text" type="xstring" value="etc etc etc"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1442.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="193">
+            <entry key="id" type="xstring" value="tag_82555"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82554"/>
+            </config>
+            <entry key="text" type="xstring" value="espanol guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1442.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="194">
+            <entry key="id" type="xstring" value="tag_13868"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="13867"/>
+            </config>
+            <entry key="text" type="xstring" value="vacaciones navidad tailandia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1440.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="195">
+            <entry key="id" type="xstring" value="tag_144117"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="144116"/>
+            </config>
+            <entry key="text" type="xstring" value="13 rosas ”"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1440.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="196">
+            <entry key="id" type="xstring" value="tag_144116"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="144115"/>
+            </config>
+            <entry key="text" type="xstring" value="“las 13 rosas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1440.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="197">
+            <entry key="id" type="xstring" value="tag_64183"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64182"/>
+            </config>
+            <entry key="text" type="xstring" value="poder absoluto junta"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1434.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="198">
+            <entry key="id" type="xstring" value="tag_12591"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="12590"/>
+            </config>
+            <entry key="text" type="xstring" value="interpretaciones naomi watts"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1429.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="199">
+            <entry key="id" type="xstring" value="tag_143118"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="143117"/>
+            </config>
+            <entry key="text" type="xstring" value="marta etura veronica"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1424.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="200">
+            <entry key="id" type="xstring" value="tag_64466"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="64465"/>
+            </config>
+            <entry key="text" type="xstring" value="unamuno eduard fernandez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1422.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="201">
+            <entry key="id" type="xstring" value="tag_41022"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="41021"/>
+            </config>
+            <entry key="text" type="xstring" value="“mar adentro” pelicula"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1420.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="202">
+            <entry key="id" type="xstring" value="tag_4810"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="4809"/>
+            </config>
+            <entry key="text" type="xstring" value="pone pelos punta"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1414.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="203">
+            <entry key="id" type="xstring" value="tag_112082"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="112081"/>
+            </config>
+            <entry key="text" type="xstring" value="“la mala educacion”"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1412.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="204">
+            <entry key="id" type="xstring" value="tag_6398"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="6397"/>
+            </config>
+            <entry key="text" type="xstring" value="actores estado gracia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1412.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="205">
+            <entry key="id" type="xstring" value="tag_82608"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82607"/>
+            </config>
+            <entry key="text" type="xstring" value="elejalde borda papel"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1410.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="206">
+            <entry key="id" type="xstring" value="tag_82607"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82606"/>
+            </config>
+            <entry key="text" type="xstring" value="karra elejalde borda"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1410.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="207">
+            <entry key="id" type="xstring" value="tag_2332"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="2331"/>
+            </config>
+            <entry key="text" type="xstring" value="ewan mcgregor naomi"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1406.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="208">
+            <entry key="id" type="xstring" value="tag_82018"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="82017"/>
+            </config>
+            <entry key="text" type="xstring" value="trabajo karra elejalde"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1402.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="209">
+            <entry key="id" type="xstring" value="tag_12344"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="12343"/>
+            </config>
+            <entry key="text" type="xstring" value="hotel linea playa"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1398.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="210">
+            <entry key="id" type="xstring" value="tag_103556"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="103555"/>
+            </config>
+            <entry key="text" type="xstring" value="musica alberto iglesias"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1396.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="211">
+            <entry key="id" type="xstring" value="tag_83182"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="83181"/>
+            </config>
+            <entry key="text" type="xstring" value="actor santi prego"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1390.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="212">
+            <entry key="id" type="xstring" value="tag_75773"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="75772"/>
+            </config>
+            <entry key="text" type="xstring" value="actual bioko guinea"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1386.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="213">
+            <entry key="id" type="xstring" value="tag_75771"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="75770"/>
+            </config>
+            <entry key="text" type="xstring" value="fernando poo actual"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1386.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="214">
+            <entry key="id" type="xstring" value="tag_75772"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="75771"/>
+            </config>
+            <entry key="text" type="xstring" value="poo actual bioko"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1386.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="215">
+            <entry key="id" type="xstring" value="tag_60734"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="60733"/>
+            </config>
+            <entry key="text" type="xstring" value="basados hechos reales"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1384.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="216">
+            <entry key="id" type="xstring" value="tag_70308"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="70307"/>
+            </config>
+            <entry key="text" type="xstring" value="mas horas media"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1384.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="217">
+            <entry key="id" type="xstring" value="tag_4921"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="4920"/>
+            </config>
+            <entry key="text" type="xstring" value="rodada ingles actores"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1366.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="218">
+            <entry key="id" type="xstring" value="tag_89257"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89256"/>
+            </config>
+            <entry key="text" type="xstring" value="hacerse mando unico"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1366.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="219">
+            <entry key="id" type="xstring" value="tag_89258"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89257"/>
+            </config>
+            <entry key="text" type="xstring" value="mando unico guerra"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1366.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="220">
+            <entry key="id" type="xstring" value="tag_89251"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89250"/>
+            </config>
+            <entry key="text" type="xstring" value="tropas frente sublevado"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1366.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="221">
+            <entry key="id" type="xstring" value="tag_89250"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="89249"/>
+            </config>
+            <entry key="text" type="xstring" value="sumar tropas frente"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1366.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="222">
+            <entry key="id" type="xstring" value="tag_14113"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="14112"/>
+            </config>
+            <entry key="text" type="xstring" value="million dollar baby"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1362.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="223">
+            <entry key="id" type="xstring" value="tag_27403"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="27402"/>
+            </config>
+            <entry key="text" type="xstring" value="ocurrio familia espanola"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1362.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="224">
+            <entry key="id" type="xstring" value="tag_27402"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="27401"/>
+            </config>
+            <entry key="text" type="xstring" value="real ocurrio familia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1362.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="225">
+            <entry key="id" type="xstring" value="tag_1383"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="1382"/>
+            </config>
+            <entry key="text" type="xstring" value="vida tocado vivir"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1360.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="226">
+            <entry key="id" type="xstring" value="tag_83542"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="83541"/>
+            </config>
+            <entry key="text" type="xstring" value="historia guerra civil"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1360.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="227">
+            <entry key="id" type="xstring" value="tag_24472"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="24471"/>
+            </config>
+            <entry key="text" type="xstring" value="japon tailandia pasar"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1360.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="228">
+            <entry key="id" type="xstring" value="tag_19110"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="19109"/>
+            </config>
+            <entry key="text" type="xstring" value="ewan mcgregor maria"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1358.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="229">
+            <entry key="id" type="xstring" value="tag_19111"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="19110"/>
+            </config>
+            <entry key="text" type="xstring" value="mcgregor maria naomi"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1358.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="230">
+            <entry key="id" type="xstring" value="tag_126755"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="126754"/>
+            </config>
+            <entry key="text" type="xstring" value="barcelona madrid coruna"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1356.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="231">
+            <entry key="id" type="xstring" value="tag_126753"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="126752"/>
+            </config>
+            <entry key="text" type="xstring" value="naturales ciudades barcelona"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1356.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="232">
+            <entry key="id" type="xstring" value="tag_126906"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="126905"/>
+            </config>
+            <entry key="text" type="xstring" value="galeria mujeres luchadoras"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1356.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="233">
+            <entry key="id" type="xstring" value="tag_126905"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="126904"/>
+            </config>
+            <entry key="text" type="xstring" value="reune galeria mujeres"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1356.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="234">
+            <entry key="id" type="xstring" value="tag_126754"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="126753"/>
+            </config>
+            <entry key="text" type="xstring" value="ciudades barcelona madrid"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1356.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="235">
+            <entry key="id" type="xstring" value="tag_126756"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="126755"/>
+            </config>
+            <entry key="text" type="xstring" value="madrid coruna ferrol"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1356.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="236">
+            <entry key="id" type="xstring" value="tag_126752"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="126751"/>
+            </config>
+            <entry key="text" type="xstring" value="escenarios naturales ciudades"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1356.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="237">
+            <entry key="id" type="xstring" value="tag_126955"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="126954"/>
+            </config>
+            <entry key="text" type="xstring" value="sentido tragico vida"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1356.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="238">
+            <entry key="id" type="xstring" value="tag_149052"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="149051"/>
+            </config>
+            <entry key="text" type="xstring" value="ayala veronica sanchez"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1354.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="239">
+            <entry key="id" type="xstring" value="tag_149051"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="149050"/>
+            </config>
+            <entry key="text" type="xstring" value="lopez ayala veronica"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1354.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="240">
+            <entry key="id" type="xstring" value="tag_110851"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="110850"/>
+            </config>
+            <entry key="text" type="xstring" value="maura lola duenas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1352.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="241">
+            <entry key="id" type="xstring" value="tag_103510"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="103509"/>
+            </config>
+            <entry key="text" type="xstring" value="penelope cruz papel"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1352.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="242">
+            <entry key="id" type="xstring" value="tag_9491"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="9490"/>
+            </config>
+            <entry key="text" type="xstring" value="realidad supera ficcion"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1348.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="243">
+            <entry key="id" type="xstring" value="tag_13843"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="13842"/>
+            </config>
+            <entry key="text" type="xstring" value="antonio bayona director"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1346.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="244">
+            <entry key="id" type="xstring" value="tag_643"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="642"/>
+            </config>
+            <entry key="text" type="xstring" value="factura tecnica impecable"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1342.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="245">
+            <entry key="id" type="xstring" value="tag_60367"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="60366"/>
+            </config>
+            <entry key="text" type="xstring" value="fotografia banda sonora"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1340.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="246">
+            <entry key="id" type="xstring" value="tag_28169"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="28168"/>
+            </config>
+            <entry key="text" type="xstring" value="ewan mcgregor tambien"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1338.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="247">
+            <entry key="id" type="xstring" value="tag_95053"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="95052"/>
+            </config>
+            <entry key="text" type="xstring" value="cuestionar postura inicial"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1332.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="248">
+            <entry key="id" type="xstring" value="tag_95031"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="95030"/>
+            </config>
+            <entry key="text" type="xstring" value="gobierno republicano rector"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1332.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="249">
+            <entry key="id" type="xstring" value="tag_48751"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="48750"/>
+            </config>
+            <entry key="text" type="xstring" value="banda sonora fotografia"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1332.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+    </config>
+    <entry key="tableID" type="xstring" value="e38ef0a9-98d3-405f-b94d-ffdeeab001d6"/>
+    <config key="subscriptionFilterIds">
+        <entry key="array-size" type="xint" value="0"/>
+    </config>
+    <config key="warningMessages">
+        <entry key="numSettings" type="xint" value="1"/>
+        <entry key="key_0" type="xstring" value="knime_clipped_rows"/>
+        <entry key="value_0" type="xstring" value="Only the first 250 tags are displayed."/>
+    </config>
+    <entry key="imageGeneration" type="xboolean" value="false"/>
+    <entry key="warningsInView" type="xboolean" value="true"/>
+    <entry key="resizeToWindow" type="xboolean" value="true"/>
+    <entry key="imageWidth" type="xint" value="800"/>
+    <entry key="imageHeight" type="xint" value="600"/>
+    <entry key="displayFullscreenButton" type="xboolean" value="true"/>
+    <entry key="displayRefreshButton" type="xboolean" value="true"/>
+    <entry key="disableAnimations" type="xboolean" value="false"/>
+    <entry key="colorProp" type="xboolean" value="false"/>
+    <entry key="font" type="xstring" value="Impact"/>
+    <entry key="fontBold" type="xboolean" value="false"/>
+    <entry key="enableViewConfiguration" type="xboolean" value="true"/>
+    <entry key="enableTitleChange" type="xboolean" value="true"/>
+    <entry key="enableSubtitleChange" type="xboolean" value="true"/>
+    <entry key="enableFontSizeChange" type="xboolean" value="true"/>
+    <entry key="enableScaleTypeChange" type="xboolean" value="true"/>
+    <entry key="enableSpiralTypeChange" type="xboolean" value="true"/>
+    <entry key="enableNumOrientationsChange" type="xboolean" value="true"/>
+    <entry key="enableAnglesChange" type="xboolean" value="true"/>
+    <entry key="enableSelection" type="xboolean" value="true"/>
+    <entry key="selectionColor" type="xstring" value="#333333"/>
+    <entry key="enableShowSelectedOnly" type="xboolean" value="true"/>
+    <entry key="displayClearSelectionButton" type="xboolean" value="true"/>
+</config>

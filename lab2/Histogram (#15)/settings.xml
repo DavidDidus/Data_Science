@@ -21,7 +21,7 @@
             </config>
         </config>
         <entry key="binningType" type="xstring" value="EQUAL_WIDTH"/>
-        <entry key="nBins" type="xint" value="20"/>
+        <entry key="nBins" type="xint" value="10"/>
         <entry key="hasIntegerCutoff" type="xboolean" value="false"/>
         <entry key="hasFixedLowerBound" type="xboolean" value="false"/>
         <entry key="lowerBound" type="xdouble" value="0.0"/>
@@ -40,7 +40,7 @@
         <entry key="manualMax" type="xdouble" value="100.0"/>
         <entry key="dimensionAxisLabel" type="xstring" value=""/>
         <entry key="frequencyAxisLabel" type="xstring" value=""/>
-        <entry key="showNumericLabels" type="xboolean" value="false"/>
+        <entry key="showNumericLabels" type="xboolean" value="true"/>
         <entry key="allowImageDownload" type="xboolean" value="true"/>
         <entry key="showTooltip" type="xboolean" value="true"/>
         <entry key="selectionMode" type="xstring" value="EDIT"/>
@@ -170,60 +170,10 @@
                 <entry key="type" type="xstring" value="table"/>
                 <entry key="table_dir_location" type="xstring" value="object_19"/>
             </config>
-            <config key="object_20">
-                <entry key="index" type="xint" value="20"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_20"/>
-            </config>
-            <config key="object_21">
-                <entry key="index" type="xint" value="21"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_21"/>
-            </config>
-            <config key="object_22">
-                <entry key="index" type="xint" value="22"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_22"/>
-            </config>
-            <config key="object_23">
-                <entry key="index" type="xint" value="23"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_23"/>
-            </config>
-            <config key="object_24">
-                <entry key="index" type="xint" value="24"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_24"/>
-            </config>
-            <config key="object_25">
-                <entry key="index" type="xint" value="25"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_25"/>
-            </config>
-            <config key="object_26">
-                <entry key="index" type="xint" value="26"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_26"/>
-            </config>
-            <config key="object_27">
-                <entry key="index" type="xint" value="27"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_27"/>
-            </config>
-            <config key="object_28">
-                <entry key="index" type="xint" value="28"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_28"/>
-            </config>
-            <config key="object_29">
-                <entry key="index" type="xint" value="29"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_29"/>
-            </config>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="819764f8-fe6c-4954-ab1d-01ff6675a16d"/>
+        <entry key="file_store_id" type="xstring" value="3e9ae638-8a4e-4f03-bd56-f946f3d69a35"/>
     </config>
 </config>
