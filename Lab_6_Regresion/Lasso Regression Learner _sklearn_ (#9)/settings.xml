@@ -9,30 +9,17 @@
         <config key="general_settings">
             <entry key="json-type_Internals" type="xstring" value="OBJECT"/>
             <config key="feature_columns">
-                <entry key="array-size" type="xint" value="23"/>
-                <entry key="0" type="xstring" value="pH_soil"/>
-                <entry key="1" type="xstring" value="nitrogen_content"/>
-                <entry key="2" type="xstring" value="phosphorus_content"/>
-                <entry key="3" type="xstring" value="potassium_content"/>
-                <entry key="4" type="xstring" value="organic_matter"/>
-                <entry key="5" type="xstring" value="water_retention"/>
-                <entry key="6" type="xstring" value="soil_depth"/>
-                <entry key="7" type="xstring" value="annual_precipitation"/>
-                <entry key="8" type="xstring" value="hours_of_sunlight"/>
-                <entry key="9" type="xstring" value="frost_days_per_year"/>
-                <entry key="10" type="xstring" value="pesticide_amount"/>
-                <entry key="11" type="xstring" value="irrigation_frequency"/>
-                <entry key="12" type="xstring" value="planting_density"/>
-                <entry key="13" type="xstring" value="harvest_date"/>
-                <entry key="14" type="xstring" value="days_to_germination"/>
-                <entry key="15" type="xstring" value="days_to_maturity"/>
-                <entry key="16" type="xstring" value="slope"/>
-                <entry key="17" type="xstring" value="crop_rotation_period"/>
-                <entry key="18" type="xstring" value="weed_density"/>
-                <entry key="19" type="xstring" value="microbial_activity"/>
-                <entry key="20" type="xstring" value="wind_gusts_max"/>
-                <entry key="21" type="xstring" value="humidity_avg"/>
-                <entry key="22" type="xstring" value="leaf_wetness"/>
+                <entry key="array-size" type="xint" value="10"/>
+                <entry key="0" type="xstring" value="annual_precipitation"/>
+                <entry key="1" type="xstring" value="frost_days_per_year"/>
+                <entry key="2" type="xstring" value="planting_date"/>
+                <entry key="3" type="xstring" value="altitude"/>
+                <entry key="4" type="xstring" value="biomass_above_ground"/>
+                <entry key="5" type="xstring" value="biomass_below_ground"/>
+                <entry key="6" type="xstring" value="yield_previous_year"/>
+                <entry key="7" type="xstring" value="market_price_last_year"/>
+                <entry key="8" type="xstring" value="distance_to_market"/>
+                <entry key="9" type="xstring" value="agricultural_region_east"/>
             </config>
             <entry key="target_column" type="xstring" value="yield_per_hectare"/>
             <entry key="missing_value_handling" type="xstring" value="SkipRow"/>
@@ -79,6 +66,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" value="filestore"/>
-        <entry key="file_store_id" type="xstring" value="83d4bda2-5a94-4c33-88c9-e27ec14a6d9a"/>
+        <entry key="file_store_id" type="xstring" value="30d66712-8d58-4ce4-9f16-8e481a068197"/>
     </config>
 </config>

@@ -6,62 +6,10 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="CFG_TARGETCOLUMN" type="xstring" value="yield_per_hectare"/>
-        <entry key="CFG_ISIGNORECONSTCOLUMNS" type="xboolean" value="false"/>
-        <config key="CFG_IGNOREDCOLUMNS"/>
-        <entry key="CFG_FRAMEPORTIDX" type="xint" value="0"/>
-        <config key="CFG_COL_SELECTION">
-            <entry key="filter-type" type="xstring" value="STANDARD"/>
-            <config key="included_names">
-                <entry key="array-size" type="xint" value="23"/>
-                <entry key="0" type="xstring" value="pH_soil"/>
-                <entry key="1" type="xstring" value="nitrogen_content"/>
-                <entry key="2" type="xstring" value="phosphorus_content"/>
-                <entry key="3" type="xstring" value="potassium_content"/>
-                <entry key="4" type="xstring" value="organic_matter"/>
-                <entry key="5" type="xstring" value="water_retention"/>
-                <entry key="6" type="xstring" value="soil_depth"/>
-                <entry key="7" type="xstring" value="annual_precipitation"/>
-                <entry key="8" type="xstring" value="hours_of_sunlight"/>
-                <entry key="9" type="xstring" value="frost_days_per_year"/>
-                <entry key="10" type="xstring" value="pesticide_amount"/>
-                <entry key="11" type="xstring" value="irrigation_frequency"/>
-                <entry key="12" type="xstring" value="planting_density"/>
-                <entry key="13" type="xstring" value="harvest_date"/>
-                <entry key="14" type="xstring" value="days_to_germination"/>
-                <entry key="15" type="xstring" value="days_to_maturity"/>
-                <entry key="16" type="xstring" value="slope"/>
-                <entry key="17" type="xstring" value="crop_rotation_period"/>
-                <entry key="18" type="xstring" value="weed_density"/>
-                <entry key="19" type="xstring" value="microbial_activity"/>
-                <entry key="20" type="xstring" value="wind_gusts_max"/>
-                <entry key="21" type="xstring" value="humidity_avg"/>
-                <entry key="22" type="xstring" value="leaf_wetness"/>
-            </config>
-            <config key="excluded_names">
-                <entry key="array-size" type="xint" value="0"/>
-            </config>
-            <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
-            <config key="name_pattern">
-                <entry key="pattern" type="xstring" value=""/>
-                <entry key="type" type="xstring" value="Wildcard"/>
-                <entry key="caseSensitive" type="xboolean" value="true"/>
-                <entry key="excludeMatching" type="xboolean" value="false"/>
-            </config>
-            <config key="datatype">
-                <config key="typelist">
-                    <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
-                </config>
-            </config>
-        </config>
+        <entry key="CFG_SEED" type="xlong" value="1715653495093"/>
+        <entry key="CFG_ISSTATICSEED" type="xboolean" value="true"/>
         <entry key="CFG_MAXRUNTIMEINSECS" type="xint" value="10"/>
         <entry key="CFG_ISMAXRUNTIMEINSECS" type="xboolean" value="false"/>
-        <entry key="CFG_WCOLUMN" type="xstring" isnull="true" value=""/>
         <entry key="CFG_FAMILY" type="xstring" value="Gaussian"/>
         <entry key="CFG_TWEEDIEVARIANCEPOWER" type="xdouble" value="0.0"/>
         <entry key="CFG_TWEEDIELINKPOWER" type="xdouble" value="1.0"/>
@@ -95,9 +43,48 @@
         <entry key="CFG_ISPRIOR" type="xboolean" value="false"/>
         <entry key="CFG_PRIOR" type="xdouble" value="0.1"/>
         <entry key="CFG_VALIDATIONFRAMESIZE" type="xint" value="15"/>
+        <entry key="CFG_TARGETCOLUMN" type="xstring" value="yield_per_hectare"/>
+        <entry key="CFG_ISIGNORECONSTCOLUMNS" type="xboolean" value="false"/>
+        <config key="CFG_IGNOREDCOLUMNS"/>
+        <entry key="CFG_FRAMEPORTIDX" type="xint" value="0"/>
+        <config key="CFG_COL_SELECTION">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="10"/>
+                <entry key="0" type="xstring" value="annual_precipitation"/>
+                <entry key="1" type="xstring" value="frost_days_per_year"/>
+                <entry key="2" type="xstring" value="planting_date"/>
+                <entry key="3" type="xstring" value="altitude"/>
+                <entry key="4" type="xstring" value="biomass_above_ground"/>
+                <entry key="5" type="xstring" value="biomass_below_ground"/>
+                <entry key="6" type="xstring" value="yield_previous_year"/>
+                <entry key="7" type="xstring" value="market_price_last_year"/>
+                <entry key="8" type="xstring" value="distance_to_market"/>
+                <entry key="9" type="xstring" value="agricultural_region_east"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist">
+                    <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+                </config>
+            </config>
+        </config>
+        <entry key="CFG_WCOLUMN" type="xstring" isnull="true" value=""/>
         <entry key="CFG_OFFSETCOLUMN" type="xstring" isnull="true" value=""/>
-        <entry key="CFG_SEED" type="xlong" value="1715653495093"/>
-        <entry key="CFG_ISSTATICSEED" type="xboolean" value="true"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -129,12 +116,12 @@
             <entry key="index" type="xint" value="2"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 24, Cols: 2"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 11, Cols: 2"/>
             <entry key="port_dir_location" type="xstring" value="port_2"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" value="filestore"/>
-        <entry key="file_store_id" type="xstring" value="d6528f73-04b3-4f72-9c7b-637f60d2da8c"/>
+        <entry key="file_store_id" type="xstring" value="d7109b00-400c-4d71-adac-645a539a31cc"/>
     </config>
 </config>
