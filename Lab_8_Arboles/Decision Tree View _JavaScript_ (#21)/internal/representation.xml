@@ -7,7 +7,7 @@
     <entry key="backgroundColor" type="xstring" value="#FFFFFF"/>
     <entry key="dataAreaColor" type="xstring" value="#FFFFFF"/>
     <entry key="displayFullscreenButton" type="xboolean" value="true"/>
-    <entry key="TableId" type="xstring" value="7d57db38-7d0f-414c-9991-0bb8d128ee91"/>
+    <entry key="TableId" type="xstring" value="7d96b630-451d-4f2a-a449-62eac47b6d93"/>
     <entry key="decimals" type="xstring" value="2"/>
     <entry key="mark" type="xstring" value="."/>
     <entry key="thousand" type="xstring" isnull="true" value=""/>

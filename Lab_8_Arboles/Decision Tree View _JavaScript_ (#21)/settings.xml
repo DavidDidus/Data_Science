@@ -17,7 +17,7 @@
         <entry key="dataAreaColor" type="xstring" value="#FFFFFF"/>
         <entry key="nodeBackgroundColor" type="xstring" value="#FFFFFF"/>
         <config key="nodeStatus"/>
-        <entry key="expandedLevel" type="xint" value="3"/>
+        <entry key="expandedLevel" type="xint" value="2"/>
         <entry key="nodeStatusFromView" type="xboolean" value="false"/>
         <entry key="maxRows" type="xint" value="10000"/>
         <entry key="enableSelection" type="xboolean" value="false"/>
@@ -65,7 +65,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObject"/>
-            <entry key="port_object_summary" type="xstring" value="SVG 1366 x 205"/>
+            <entry key="port_object_summary" type="xstring" value="SVG 1366 x 375"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
