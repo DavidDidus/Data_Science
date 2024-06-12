@@ -9,21 +9,17 @@
         <config key="columnSettings"/>
         <config key="dataTypeSettings">
             <config key="org.knime.core.data.def.IntCell">
-                <entry key="factoryID" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.handlers.DoNothingMissingCellHandlerFactory"/>
+                <entry key="factoryID" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.handlers.MedianNumberMissingCellHandlerFactory"/>
                 <config key="settings"/>
             </config>
             <config key="org.knime.core.data.def.StringCell">
-                <entry key="factoryID" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.handlers.DoNothingMissingCellHandlerFactory"/>
+                <entry key="factoryID" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.handlers.MostFrequentValueMissingCellHandlerFactory"/>
                 <config key="settings"/>
             </config>
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Column &quot;NumTarjCred_T&quot; still contains missing values.%%00010Column &quot;NivelEduc&quot; still contains missing values.%%00010Column &quot;EstCivil&quot; still contains missing values.%%00010Column &quot;CreditMes_T&quot; still contains missing values.%%00010Column &quot;NumTransWeb_T-1&quot; still contains missing values.%%00010Column &quot;MargenComp_T-5&quot; still contains missing values.%%00010Column &quot;NumTransWeb_T&quot; still contains missing values.%%00010Column &quot;MargenComp_T&quot; still contains missing values.%%00010Column &quot;NumTarjCred_T-1&quot; still contains missing values.%%00010Column &quot;MargenComp_T-4&quot; still contains missing values.%%00010Column &quot;MargenComp_T-1&quot; still contains missing values."/>
-    </config>
     <entry key="factory" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.compute.MissingValueHandlerNodeFactory"/>
     <entry key="node-name" type="xstring" value="Missing Value"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
@@ -58,6 +54,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="f83ed8f8-3b98-49e8-a0cf-c26eca39a37e"/>
+        <entry key="file_store_id" type="xstring" value="b483b704-8f23-4da5-bf58-ec3622535ae2"/>
     </config>
 </config>

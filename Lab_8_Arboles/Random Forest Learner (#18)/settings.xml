@@ -27,7 +27,7 @@
         <config key="columnFilterConfig">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="25"/>
+                <entry key="array-size" type="xint" value="23"/>
                 <entry key="0" type="xstring" value="CreditMes_T"/>
                 <entry key="1" type="xstring" value="CreditMes_T-1"/>
                 <entry key="2" type="xstring" value="CreditMes_T-2"/>
@@ -51,8 +51,6 @@
                 <entry key="20" type="xstring" value="Genero"/>
                 <entry key="21" type="xstring" value="EstCivil"/>
                 <entry key="22" type="xstring" value="Region"/>
-                <entry key="23" type="xstring" value="NF"/>
-                <entry key="24" type="xstring" value="F"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="0"/>
@@ -77,7 +75,7 @@
         </config>
         <entry key="ignoreColumnsWithoutDomain" type="xboolean" value="true"/>
         <entry key="nrHilitePatterns" type="xint" value="-1"/>
-        <entry key="saveTargetDistributionInNodes" type="xboolean" value="false"/>
+        <entry key="saveTargetDistributionInNodes" type="xboolean" value="true"/>
         <entry key="rowSamplingMode" type="xstring" value="Random"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -105,21 +103,21 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 4484, Cols: 31"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 4484, Cols: 29"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
             <entry key="index" type="xint" value="2"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 11, Cols: 6"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 9, Cols: 6"/>
             <entry key="port_dir_location" type="xstring" value="port_2"/>
         </config>
         <config key="port_3">
             <entry key="index" type="xint" value="3"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.base.node.mine.treeensemble2.model.TreeEnsembleModelPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.base.node.mine.treeensemble2.model.TreeEnsembleModelPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="100 classifiers on 11 attributes"/>
+            <entry key="port_object_summary" type="xstring" value="100 classifiers on 9 attributes"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_3"/>
@@ -137,6 +135,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" value="filestore"/>
-        <entry key="file_store_id" type="xstring" value="2619b073-1c37-47c3-8df0-087e60d78a09"/>
+        <entry key="file_store_id" type="xstring" value="59c7be21-4b34-488f-9ef8-edfa3c0d6fe6"/>
     </config>
 </config>

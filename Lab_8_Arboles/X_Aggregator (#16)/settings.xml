@@ -8,7 +8,7 @@
     <config key="model">
         <entry key="predictionColumn" type="xstring" value="Prediction (FUGA)"/>
         <entry key="targetColumn" type="xstring" value="FUGA"/>
-        <entry key="addFoldId" type="xboolean" value="false"/>
+        <entry key="addFoldId" type="xboolean" value="true"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -31,7 +31,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 5605, Cols: 27"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 5605, Cols: 26"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-    <entry key="created_by" type="xstring" value="5.2.3.v202403211026"/>
+    <entry key="created_by" type="xstring" value="5.2.2.v202403071655"/>
     <entry key="created_by_nightly" type="xboolean" value="false"/>
     <entry key="version" type="xstring" value="5.1.0"/>
     <entry key="name" type="xstring" isnull="true" value=""/>
@@ -8,7 +8,7 @@
         <entry key="authored-by" type="xstring" value="drodr"/>
         <entry key="authored-when" type="xstring" value="2024-05-12 22:13:08 -0400"/>
         <entry key="lastEdited-by" type="xstring" value="drodr"/>
-        <entry key="lastEdited-when" type="xstring" value="2024-05-17 00:02:53 -0400"/>
+        <entry key="lastEdited-when" type="xstring" value="2024-05-29 08:56:58 -0400"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
