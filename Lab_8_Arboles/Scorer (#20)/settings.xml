@@ -70,7 +70,7 @@
         <entry key="first" type="xstring" value="FUGA"/>
         <entry key="second" type="xstring" value="Prediction (FUGA)"/>
         <entry key="flowVarPrefix" type="xstring" isnull="true" value=""/>
-        <entry key="sortingReversed" type="xboolean" value="false"/>
+        <entry key="sortingReversed" type="xboolean" value="true"/>
         <entry key="sortingStrategy" type="xint" value="0"/>
         <entry key="ignore.missing.values" type="xboolean" value="true"/>
     </config>
@@ -108,6 +108,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="ad1bce26-7748-49be-ad05-edc946ff2d0b"/>
+        <entry key="file_store_id" type="xstring" value="1dce3d60-7e1c-4601-81b7-95e9276a2b39"/>
     </config>
 </config>
